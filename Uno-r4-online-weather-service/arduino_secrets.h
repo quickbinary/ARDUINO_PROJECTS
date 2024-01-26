@@ -1,3 +1,3 @@
 // arduino_secrets.h
-#define SECRET_SSID "SABILA HOME"
-#define SECRET_PASS "sab1la2o2o"
+#define SECRET_SSID "ADD WIFI_NAME"
+#define SECRET_PASS "ADD WIFI_PASS"
